@@ -1,0 +1,2 @@
+# fxminerbin
+bin
